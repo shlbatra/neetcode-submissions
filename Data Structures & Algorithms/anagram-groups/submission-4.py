@@ -5,7 +5,7 @@ class Solution:
         # if only 1 element then return that
 
         # Approach 1
-        # Sort all strings
+        # Sort all strings and put key as sorted string and list of string as values
         # All sorted strings same -> palindrome
         # Time complexity O(m*nlogn) -> m elements and n avg elements per string
 
